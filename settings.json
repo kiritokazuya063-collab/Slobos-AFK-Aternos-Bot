@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Moonshades1.aternos.me:58972",
+    "ip": "Moonshades1.aternos.me",
     "port": 58972,
     "version": "1.21.11",
     "try-creative": false
