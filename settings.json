@@ -1,9 +1,9 @@
 {
-  "name": "Slavefrags",
+  "name": "Lamefrags",
   "bot-account": {
     "username": "Slavefrags",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Moonshades1.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm Slavefrags the immortal peasant",
-        "y'all shall worship me, for i am the immortal peasant",
-        "Spoke is gey!",
+        "IF you have any concern please contact us",
+        "Owner is Ryouko",
+        "You can swap your holding item by pressing Shit+Q",
         "OMG! Hyun is so pogi"
       ]
     },
