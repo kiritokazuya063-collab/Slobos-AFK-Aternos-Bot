@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slavefrags",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Moonshades1.aternos.me",
