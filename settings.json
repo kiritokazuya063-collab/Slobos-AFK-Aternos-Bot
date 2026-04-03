@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Moonshades1.aternos.me",
-    "port": 58972,
-    "version": "1.21.11",
+    "ip": "MoonshadeSmp.aternos.me",
+    "port": 47667,
+    "version": "1.26.10.4",
     "try-creative": false
   },
   "position": {
